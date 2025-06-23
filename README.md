@@ -7,6 +7,10 @@ K-Means clustering project to detect forged banknotes using PCA and unsupervised
 
 This project explores how machine learning can help distinguish between real and forged banknotes — without relying on pre-labeled data. Using K-Means clustering and PCA for visualization, I analyzed scanned banknote features to uncover patterns hidden beneath the surface.
 
+### ▶️ Run the Notebook
+Want to explore the code live?  
+[Open in Google Colab](https://colab.research.google.com/github/abiodun-code/banknote-clustering/blob/main/Banknote_Clustering.ipynb)
+
 ### 🧠 What’s inside
 - A full Jupyter Notebook with data cleaning, standardization, visualization, and clustering
 - PCA-based 2D plots showing natural groupings
