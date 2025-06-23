@@ -9,7 +9,7 @@ This project explores how machine learning can help distinguish between real and
 
 ### ▶️ Run the Notebook
 Want to explore the code live?  
-[Open in Google Colab](https://colab.research.google.com/github/Nature199/banknote-clustering/blob/main/Banknote_Clustering.ipynb)
+[Open in Google Colab][(https://github.com/Nature199/Banknote-Clustering/blob/main/Banknote_Authentication__dataset.ipynb)]
 
 ### 🧠 What’s inside
 - A full Jupyter Notebook with data cleaning, standardization, visualization, and clustering
