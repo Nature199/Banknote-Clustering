@@ -37,6 +37,8 @@ The goal: help a bank considering automation detect forged currency by finding h
 4. Compared clusters to actual classes using Adjusted Rand Score  
 5. Translated findings into a client-facing PDF report
 
+Note: Evaluation metrics like Adjusted Rand Index require access to true labels, which were not included in this version of the dataset.
+
 ### 🚀 What’s next
 This is part of my growing machine learning portfolio. More projects coming soon.
 
